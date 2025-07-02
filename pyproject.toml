@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=65.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "parkinson-prediction"
+version = "1.0.0"
+description = "Parkinson's Disease Prediction Web Application"
+requires-python = ">=3.12" 
