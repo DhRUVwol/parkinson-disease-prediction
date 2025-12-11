@@ -52,3 +52,9 @@ Tools: Jupyter Notebook, Git, virtual environments<br>
 	5.	Save the best model for inference<br>
 	6.	Use the prediction script/interface for new inputs<br>
 
+
+# Working Prototype
+<img width="1685" height="977" alt="Screenshot 2025-12-11 at 8 49 43 PM" src="https://github.com/user-attachments/assets/06af5a49-b2af-4a00-b630-72b8ac5039b3" />
+
+
+
