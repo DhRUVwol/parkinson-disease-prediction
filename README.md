@@ -1,3 +1,5 @@
+### Parkinson-Disease-Prediction
+
 A machine-learning based system for predicting Parkinson’s disease using clinical voice measurement data. The project includes model training, evaluation, and a simple interface for making predictions, demonstrating the use of supervised learning methods for medical decision support.
 
 # Overview
